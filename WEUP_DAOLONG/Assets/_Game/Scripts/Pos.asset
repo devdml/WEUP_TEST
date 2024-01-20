@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3530e9ac1ea34f4e8a362b540957164, type: 3}
+  m_Name: Pos
+  m_EditorClassIdentifier: 
+  pdata:
+  - PosType: 0
+    hinhvuong: {fileID: 8553476662974452635, guid: bd687bbcf69cb084dbff0d5807b353df, type: 3}
+    hinhtamgiac: {fileID: 8305012965408311291, guid: cfc4a9340e613f14fb66f449e6024dac, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 1
+    hinhvuong: {fileID: 8841923796154967843, guid: 2bf2205c9aa11ef45905563eb9d211bc, type: 3}
+    hinhtamgiac: {fileID: 5260630626020757149, guid: 4e537d7a3a5b7c04e909bedc1b6d2216, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 2
+    hinhvuong: {fileID: 6903308664031988883, guid: 086449bf212de684da6cac8702fb1175, type: 3}
+    hinhtamgiac: {fileID: 2919522048297547509, guid: 8672d95db4b9a5c4096f646be0c7c43e, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 3
+    hinhvuong: {fileID: 9199428686541582945, guid: d68747d5debc52845b354cc27165cd1c, type: 3}
+    hinhtamgiac: {fileID: 8204055468111333849, guid: 2aca67afd6db6344ea68c94e8f0a5e99, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 4
+    hinhvuong: {fileID: 4351594319198213297, guid: 37f1461fc533bba458216a327137b88e, type: 3}
+    hinhtamgiac: {fileID: 3563109430573857190, guid: f7eae3585b6d71f4e811a4656a19918a, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 5
+    hinhvuong: {fileID: 7526953176377537221, guid: 64acddc3a75f8bf45b765db76461d09a, type: 3}
+    hinhtamgiac: {fileID: 2552540309497527317, guid: f2597be91782fa545a3acdf53441709f, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 6
+    hinhvuong: {fileID: 6490117761796697581, guid: 2a776620dbd9e83429ac8b9bf42cb463, type: 3}
+    hinhtamgiac: {fileID: 4291181521495019080, guid: e22fcbff8b16dfa449f002667af912fe, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 7
+    hinhvuong: {fileID: 7728177516277668179, guid: 721c11b9c94cea14292dd757f2030cdd, type: 3}
+    hinhtamgiac: {fileID: 6615466400364987937, guid: f0463c2d0161c7146b0d4d8687035c03, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 8
+    hinhvuong: {fileID: 4108115639344810151, guid: fa69c64a6f9d26e4a8aa88164ceb4574, type: 3}
+    hinhtamgiac: {fileID: 4535803065063557671, guid: dcb86fff7e5fdec41935ceea5500dde2, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 9
+    hinhvuong: {fileID: 7861777567476781847, guid: 16176c209287bba4e8b13d8b2052f0be, type: 3}
+    hinhtamgiac: {fileID: 8805007372381508250, guid: 1092838ac0bdf4d4b994dbc6bf2e468b, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 10
+    hinhvuong: {fileID: 9089266301477583807, guid: 420f9b06b76c5644c8ff345fcd6b67ef, type: 3}
+    hinhtamgiac: {fileID: 9140969037212957811, guid: 898da40b8d085df4ab8b2c4158e73312, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 11
+    hinhvuong: {fileID: 1897870308758938595, guid: a9b954963223c554b9c82cc8cd1ec522, type: 3}
+    hinhtamgiac: {fileID: 1071359797592120646, guid: 6b09b744fe511354e81d5f309d024b32, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 12
+    hinhvuong: {fileID: 5275282827085775701, guid: 600cc9bf0fcfef74cbcd37a8072b94c6, type: 3}
+    hinhtamgiac: {fileID: 8005413400280248355, guid: 5f912e48363437645b17aeb2fdb2dadb, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 13
+    hinhvuong: {fileID: 287241297269130061, guid: a24b4650b2749f54f9bfbe2be037e4b5, type: 3}
+    hinhtamgiac: {fileID: 6145445496257351177, guid: 63d78fb66346aae47a7f00b0f79c033c, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 14
+    hinhvuong: {fileID: 3894113630015817244, guid: 26e5f1e7e0b46de40918cc076b54302e, type: 3}
+    hinhtamgiac: {fileID: 2711686750257384676, guid: 0fed8efc4546a3344bfacf5bc3a8bb5b, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
+  - PosType: 15
+    hinhvuong: {fileID: 6577287959478122343, guid: 75bd1b7608a75ce4e92a8a64673d880c, type: 3}
+    hinhtamgiac: {fileID: 3087766149002799928, guid: afc11f01b3de194448dcd3a456278a37, type: 3}
+    hinhvuong2: {fileID: 0}
+    hinhthoi: {fileID: 0}
